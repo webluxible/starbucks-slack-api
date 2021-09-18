@@ -45,7 +45,7 @@ dependencies {
     
     2021-09-11 00:56:48.833  INFO 34029 --- [  restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
     ```
-4. Then you can check the white error page.
+4. Then you can check the whitelabel error page.
 
 ![](../images/01-01.png)
 
